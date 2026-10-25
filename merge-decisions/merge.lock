@@ -80441,6 +80441,7 @@
       "https://animecountdown.com/2526390",
       "https://animenewsnetwork.com/encyclopedia/anime.php?id=33020",
       "https://anisearch.com/anime/19498",
+      "https://kitsu.app/anime/50986",
       "https://livechart.me/anime/12775",
       "https://myanimelist.net/anime/59415",
       "https://simkl.com/anime/2526390"
@@ -90952,6 +90953,7 @@
       "https://anime-planet.com/anime/jm",
       "https://animecountdown.com/3045488",
       "https://animenewsnetwork.com/encyclopedia/anime.php?id=38647",
+      "https://anisearch.com/anime/21309",
       "https://kitsu.app/anime/50689",
       "https://livechart.me/anime/13546",
       "https://myanimelist.net/anime/63697",
@@ -198982,8 +198984,11 @@
       "https://myanimelist.net/anime/60916"
     ],
     [
+      "https://anidb.net/anime/20463",
       "https://anilist.co/anime/214593",
       "https://animenewsnetwork.com/encyclopedia/anime.php?id=40393",
+      "https://anisearch.com/anime/21899",
+      "https://kitsu.app/anime/51019",
       "https://livechart.me/anime/13749",
       "https://myanimelist.net/anime/64717"
     ],
@@ -199429,7 +199434,9 @@
       "https://simkl.com/anime/671797"
     ],
     [
+      "https://anidb.net/anime/20453",
       "https://anilist.co/anime/217715",
+      "https://animenewsnetwork.com/encyclopedia/anime.php?id=40623",
       "https://livechart.me/anime/13845",
       "https://myanimelist.net/anime/65106"
     ],
@@ -228504,6 +228511,7 @@
       "https://myanimelist.net/anime/23825"
     ],
     [
+      "https://anilist.co/anime/143748",
       "https://anime-planet.com/anime/yu",
       "https://myanimelist.net/anime/43637"
     ],
@@ -241149,6 +241157,23 @@
     [
       "https://myanimelist.net/anime/58039",
       "https://myanimelist.net/anime/62463"
+    ],
+    [
+      "https://anilist.co/anime/218217",
+      "https://livechart.me/anime/13789"
+    ],
+    [
+      "https://anilist.co/anime/218532",
+      "https://anime-planet.com/anime/the-maomao-diaries-3rd-season",
+      "https://myanimelist.net/anime/65119"
+    ],
+    [
+      "https://anidb.net/anime/20461",
+      "https://anilist.co/anime/218040",
+      "https://anime-planet.com/anime/how-i-became-king-by-eating-monsters",
+      "https://animenewsnetwork.com/encyclopedia/anime.php?id=40640",
+      "https://livechart.me/anime/13859",
+      "https://myanimelist.net/anime/65147"
     ]
   ]
 }
