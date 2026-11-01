@@ -89091,6 +89091,7 @@
       "https://animecountdown.com/2926050",
       "https://animenewsnetwork.com/encyclopedia/anime.php?id=37985",
       "https://anisearch.com/anime/21007",
+      "https://kitsu.app/anime/51021",
       "https://livechart.me/anime/13382",
       "https://myanimelist.net/anime/62907",
       "https://simkl.com/anime/2926050"
@@ -91078,6 +91079,7 @@
       "https://animecountdown.com/3050960",
       "https://animenewsnetwork.com/encyclopedia/anime.php?id=38691",
       "https://anisearch.com/anime/21323",
+      "https://kitsu.app/anime/50964",
       "https://livechart.me/anime/13092",
       "https://myanimelist.net/anime/63818",
       "https://simkl.com/anime/3050960"
@@ -92570,11 +92572,14 @@
     ],
     [
       "https://anidb.net/anime/20149",
+      "https://anilist.co/anime/218008",
       "https://anime-planet.com/anime/chibi-godzilla-raids-again-4th-season",
+      "https://animecountdown.com/3169194",
       "https://animenewsnetwork.com/encyclopedia/anime.php?id=40221",
       "https://kitsu.app/anime/50818",
       "https://livechart.me/anime/13735",
-      "https://myanimelist.net/anime/64502"
+      "https://myanimelist.net/anime/64502",
+      "https://simkl.com/anime/3169194"
     ],
     [
       "https://anidb.net/anime/20150",
@@ -179848,7 +179853,8 @@
     ],
     [
       "https://anilist.co/anime/140349",
-      "https://anime-planet.com/anime/karma-don-galaxy"
+      "https://anime-planet.com/anime/karma-don-galaxy",
+      "https://kitsu.app/anime/50110"
     ],
     [
       "https://anilist.co/anime/140351",
@@ -183836,6 +183842,7 @@
       "https://anilist.co/anime/150078",
       "https://anime-planet.com/anime/fairy-tail-2-ova",
       "https://animenewsnetwork.com/encyclopedia/anime.php?id=23400",
+      "https://anisearch.com/anime/11479",
       "https://kitsu.app/anime/12225",
       "https://livechart.me/anime/1601",
       "https://myanimelist.net/anime/32930"
@@ -237955,6 +237962,7 @@
       "https://myanimelist.net/anime/64529"
     ],
     [
+      "https://anidb.net/anime/20422",
       "https://anisearch.com/anime/21990",
       "https://livechart.me/anime/13827"
     ],
@@ -241166,6 +241174,37 @@
     [
       "https://myanimelist.net/anime/58039",
       "https://myanimelist.net/anime/62463"
+    ],
+    [
+      "https://anilist.co/anime/217782",
+      "https://livechart.me/anime/13790",
+      "https://myanimelist.net/anime/65167"
+    ],
+    [
+      "https://anidb.net/anime/20500",
+      "https://anilist.co/anime/218740",
+      "https://myanimelist.net/anime/65252"
+    ],
+    [
+      "https://anilist.co/anime/218783",
+      "https://myanimelist.net/anime/65261"
+    ],
+    [
+      "https://anilist.co/anime/218939",
+      "https://myanimelist.net/anime/63607"
+    ],
+    [
+      "https://anilist.co/anime/219243",
+      "https://myanimelist.net/anime/65298"
+    ],
+    [
+      "https://anidb.net/anime/20405",
+      "https://anilist.co/anime/217008",
+      "https://anime-planet.com/anime/shin-oishinbo",
+      "https://animenewsnetwork.com/encyclopedia/anime.php?id=40552",
+      "https://anisearch.com/anime/22010",
+      "https://livechart.me/anime/13808",
+      "https://myanimelist.net/anime/65053"
     ]
   ]
 }
