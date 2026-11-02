@@ -241183,6 +241183,8 @@
     [
       "https://anidb.net/anime/20500",
       "https://anilist.co/anime/218740",
+      "https://anisearch.com/anime/22073",
+      "https://livechart.me/anime/13873",
       "https://myanimelist.net/anime/65252"
     ],
     [
@@ -241205,6 +241207,24 @@
       "https://anisearch.com/anime/22010",
       "https://livechart.me/anime/13808",
       "https://myanimelist.net/anime/65053"
+    ],
+    [
+      "https://anidb.net/anime/20434",
+      "https://anisearch.com/anime/22032",
+      "https://livechart.me/anime/13835"
+    ],
+    [
+      "https://anisearch.com/anime/22085",
+      "https://livechart.me/anime/13880"
+    ],
+    [
+      "https://anidb.net/anime/20459",
+      "https://anilist.co/anime/218025",
+      "https://anime-planet.com/anime/the-remarried-empress",
+      "https://animenewsnetwork.com/encyclopedia/anime.php?id=40636",
+      "https://anisearch.com/anime/22039",
+      "https://livechart.me/anime/13858",
+      "https://myanimelist.net/anime/65145"
     ]
   ]
 }
